@@ -4,3 +4,4 @@ Unidecode==1.2.0
 textract==1.6.3
 beautifulsoup4==4.9.3
 IMDbPY==2021.4.18
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
